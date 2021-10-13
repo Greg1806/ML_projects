@@ -10,3 +10,5 @@ Projects found on Kaggle, other coding platforms or created out of self interest
   <br> Work in progress...
 * **(Non-ML) People Analytics exercices from Keith McNulty's Handbook "Regression Modeling in People Analytics"** - *"PeopleAnalytics_exercices"*
   <br> Several advanced regression technics mostly focusing on inferential (vs predictive) analytics
+* **People Analytics: End-of-year clustering understanding and prediction** - *"EG_9box_analysis_git"*
+  <br> Impact of key metrics on end of year performance (inferential) and test of basic ML classification models and PCA to predict end of yyear cluster (prediction)
