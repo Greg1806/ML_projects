@@ -11,5 +11,9 @@ Projects found on Kaggle, other coding platforms or created out of self interest
 
 * **(Non-ML) People Analytics exercices from Keith McNulty's Handbook "Regression Modeling in People Analytics"** - *"PeopleAnalytics_exercices"*
   <br> Several advanced regression technics mostly focusing on inferential (vs predictive) analytics
+  
+* **Expedia Hotel Ranking exercise** - *"Hotel_Ranking_Kaggle"*
+  <br> Work in progress...
+
 * Fantasy Premier League best team selection (weekly)
   <br> Work in progress... 
