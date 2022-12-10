@@ -13,8 +13,10 @@ Projects found on Kaggle, other coding platforms or created out of self interest
   <br> Several advanced regression technics mostly focusing on inferential (vs predictive) analytics
   
 * **Expedia Hotel Ranking** - *"Hotel_Ranking_Kaggle"*
-  <br> Building models to rank propreties based on search made by customers and highest chances of being booked
+  <br> Building models to rank properties based on search made by customers and highest chances of being booked
   <br> Comparing performane of pointwise vs. pairwise "learning to rank" techniques
 
-* Fantasy Premier League best team selection (weekly)
-  <br> Work in progress... 
+* **Fantasy Premier League best team selection** - *"Fantasy_moneyball_project"*
+  <br> Identify key statistics and metircs behind FPL - validating or not assumptions, myths and beliefs
+  <br> Compare different models (LinearRegression, KNN, RandomForest) performance while attempting to predict weekly points per players based on key features identified
+  <br> Pick best team (maximizing number of points) per game weeks using LinearProgramming (PulP library)
